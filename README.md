@@ -1,3 +1,3 @@
-#Simon Game Project
+#Add a task Mini Project
 
-This is a project created to play simon game.
+This a project of add a task
